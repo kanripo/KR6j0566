@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 陀羅尼雜集
+#+DATE: 2015-08-30 20:34:59.632425
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0566
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+¶
