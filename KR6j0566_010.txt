@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:59.303971
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:30
 #+TITLE: 陀羅尼雜集
 #+PROPERTY: CBETA_ID T21n1336
 #+PROPERTY: ID KR6j0566
