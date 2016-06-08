@@ -1,28 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:58.995483
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:30
 #+TITLE: 陀羅尼雜集
 #+PROPERTY: CBETA_ID T21n1336
 #+PROPERTY: ID KR6j0566
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1336
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0566_T_000-0580c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0566_T_001-0580c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1336¶
-
- 陀羅尼雜集卷第一¶
+No. 1336¶
+陀羅尼雜集卷第一¶
 ¶
 未詳撰者今附梁錄¶
 
-:PROPERTIES:
-:head: 七佛所說大陀羅尼神呪(并八菩薩所說神呪合十五首)
-:END:
-¶
+* 七佛所說大陀羅尼神呪(并八菩薩所說神呪合十五首)¶
 
 第一惟越佛說有一萬八千病。以一呪悉已¶
 治之。此陀羅尼名蘇盧都呵。晉言梵音決¶
@@ -167,7 +163,7 @@ No.1336¶
 此陀羅尼句。乃是過去七十七億諸佛所說。¶
 此陀羅尼力。能令百佛世界六種震動。所有¶
 山河石壁。皆悉摧碎猶如微塵。通為一佛世¶
-界。其中所有一切萬物皆作金色。浩𣵡滉瀼¶
+界。其中所有一切萬物皆作金色。浩𣵡¶
 悉不復現。唯見金色更無餘色。此陀羅尼力¶
 故。能令百佛世界眾生。宿業重罪及三塗苦。¶
 悉皆消滅無有遺餘。其中眾生修行讀誦此¶
